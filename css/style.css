@@ -1,0 +1,54 @@
+@import url("composants/avatar.css");
+
+body {
+  color: #333333;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+h1{
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  color: #8f8f8f;
+  font-family: 'Rubik', sans-serif;
+  font-size: 24px;
+}
+
+.header h2 {
+  margin-top: -10px;
+}
+
+p {
+  margin: 5px;
+}
+
+.layer-content {
+    margin: 30px auto;
+    max-width: 470px;
+    min-width: 300px;
+}
+
+.content {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.content p {
+  text-align: center;
+}
+
+.content a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.content a:hover {
+  color: #8f8f8f;
+}
+
+.social-content a {
+    color: #333333;
+}
